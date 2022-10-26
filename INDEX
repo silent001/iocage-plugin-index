@@ -141,7 +141,7 @@
 		"primary_pkg": null
 	},
 	,
-	"famp": {
+	"famp-laravel": {
 		"MANIFEST": "famp-laravel.json",
 		"description": "FAMP (FreeBSD, Apache, MySQL and PHP) web server for Laravel sites",
 		"icon": "https://icons.freenas.org/community-icons/famp.png",
