@@ -1,0 +1,28 @@
+{
+    "name": "famp-laravel",
+    "release": "13.1-RELEASE",
+    "artifact": "https://github.com/silent001/iocage-plugin-famp-laravel.git",
+    "pkgs": [
+		"apache24",
+        "mysql80-server",
+        "php81",
+		"php81-extensions",
+        "php81-mysqli",
+		"php81-zlib",
+        "mod_php81",
+		"php81-composer2",
+		"git",
+		"node",
+		"npm"
+    ],
+    "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+    "fingerprints": {
+        "iocage-plugins": [
+            {
+                "function": "sha256",
+                "fingerprint": "9ebd6b5c8e41641cb57475fc7143930645c748b1a8fd1dc56a4c39dcd696ea91"
+            }
+        ]
+    },
+    "official": false
+}

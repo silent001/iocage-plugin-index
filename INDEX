@@ -140,6 +140,15 @@
 		"official": false,
 		"primary_pkg": null
 	},
+	,
+	"famp": {
+		"MANIFEST": "famp-laravel.json",
+		"description": "FAMP (FreeBSD, Apache, MySQL and PHP) web server for Laravel sites",
+		"icon": "https://icons.freenas.org/community-icons/famp.png",
+		"name": "FAMP for Laravel",
+		"official": false,
+		"primary_pkg": null
+	},
 	"FlareSolverr": {
 		"MANIFEST": "flaresolverr.json",
 		"description": "FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection", 
