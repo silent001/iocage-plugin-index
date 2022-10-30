@@ -20,7 +20,7 @@
         "iocage-plugins":[
             {
                 "function":"sha256",
-                "fingerprint":"9ebd6b5c8e41641cb57475fc7143930645c748b1a8fd1dc56a4c39dcd696ea91"
+                "fingerprint":"b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
             }
         ]
     },
