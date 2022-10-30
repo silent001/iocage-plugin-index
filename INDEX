@@ -140,7 +140,6 @@
 		"official": false,
 		"primary_pkg": null
 	},
-	,
 	"famp-laravel": {
 		"MANIFEST": "famp-laravel.json",
 		"description": "FAMP (FreeBSD, Apache, MySQL and PHP) web server for Laravel sites",
