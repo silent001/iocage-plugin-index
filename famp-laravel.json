@@ -11,7 +11,7 @@
         "php81-pdo_mysql",
         "php81-zlib",
         "mod_php81",
-        "php81-composer2",
+        "php81-composer",
         "git",
         "node",
         "npm"
